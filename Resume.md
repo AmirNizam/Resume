@@ -1,4 +1,4 @@
-![My Photo](thumbnail_IMG_2836.jpg)
+![My Photo](Images/thumbnail_IMG_2836.jpg)
 # Amir Nizam
 
 #### *5203 Oscar Peterson Blvd | Mob : +1-647-704-6570*
